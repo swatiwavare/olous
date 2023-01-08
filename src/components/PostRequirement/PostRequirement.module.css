@@ -1,0 +1,165 @@
+.main_header{
+font-size: 20px;
+font-weight: bold;
+
+}
+.headerImage {
+    background: url('../../assets/Vector.svg');
+    height: 30px;
+    width: 800px;
+    background-repeat: no-repeat;
+}
+
+.asterrisk_span {
+    margin: 5px;
+    font-weight: bold;
+}
+
+.currency_details {
+    display: flex;
+}
+
+.currency_detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+}
+
+.title {
+    font-weight: bold;
+   
+}
+.title_span{
+    font-weight:normal;
+    margin-left: 5px;
+}
+
+.are_you_radio_group {
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.submit_button_container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
+.submit_button {
+    border-radius: 25px;
+    background-color: rgb(216, 212, 212);
+    color: #000000;
+    padding: 7px 25px;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.form_container {
+    margin: 30px;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+
+.footer {
+    background-color: #000000;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    background: url('../../assets/Olous_Logo.png');
+    width: 200px;
+    height: 30px;
+    background-repeat: no-repeat;
+    margin: 10px 30px;
+}
+
+.menu_items {
+    display: flex;
+    align-items: center;
+    color: rgb(216, 212, 212);
+}
+
+.menu_item {
+    margin: 20px;
+    font-size: 15px;
+}
+
+.social_media_links {
+    display: flex;
+    align-items: center;
+    margin-right: 75px;
+}
+
+.facebook_logo {
+    background: url('../../assets/Facebook.svg');
+}
+
+.twitter_logo {
+    background: url('../../assets/Twitter.svg');
+}
+
+.instagram_logo {
+    background: url('../../assets/Instagram.svg');
+}
+
+.youtube_logo {
+    background: url('../../assets/Youtube.svg');
+}
+
+.linkdine_logo {
+    background: url('../../assets/Linkdine.svg');
+}
+
+.social_media_link {
+    width: 25px;
+    height: 25px;
+    margin-right: 3px;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 768px) {
+    .logo {
+        width: 140px;
+        margin: 10px 20px;
+    }
+
+    .menu_item {
+        margin: 10px;
+        font-size: 12px;
+    }
+
+    .social_media_links {
+        display: flex;
+        align-items: center;
+        margin-right: 30px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 150px;
+    }
+
+    .social_media_links {
+        margin-right: 0px;
+    }
+}
+
+
+@media screen(max-width: 1024px) {
+    
+}
+
+@media screen(max-width: 1200px) {
+    
+}

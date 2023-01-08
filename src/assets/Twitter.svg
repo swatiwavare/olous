@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-Twitter">
+      <rect width="23" height="23"/>
+    </clipPath>
+  </defs>
+  <g id="Twitter" clip-path="url(#clip-Twitter)">
+    <g id="Group_10835" data-name="Group 10835" transform="translate(1 1.411)">
+      <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(0 -0.411)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="0 0">
+        <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+        <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+      </g>
+      <path id="Twitter-2" data-name="Twitter" d="M239.155,864.168a4.364,4.364,0,0,1-1.235.339,2.149,2.149,0,0,0,.944-1.191,4.283,4.283,0,0,1-1.365.522,2.151,2.151,0,0,0-3.718,1.471,2.253,2.253,0,0,0,.055.491,6.115,6.115,0,0,1-4.434-2.234,2.151,2.151,0,0,0,.66,2.862,2.152,2.152,0,0,1-.975-.269v.029a2.151,2.151,0,0,0,1.726,2.107,2.191,2.191,0,0,1-.971.037,2.149,2.149,0,0,0,2.008,1.493,4.315,4.315,0,0,1-2.668.916,4.379,4.379,0,0,1-.513-.031,6.119,6.119,0,0,0,9.42-5.149v-.28A4.362,4.362,0,0,0,239.155,864.168Z" transform="translate(-223.186 -856.546)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
